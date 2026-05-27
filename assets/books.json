@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Effective Java",
+    "isbn": "1933988673",
+    "author": "Joshua Bloch",
+    "category": "Development"
+  },
+  {
+    "title": "The Clean Coder",
+    "isbn": "0137081073",
+    "author": "Robert Martin",
+    "category": "Development"
+  }
+]
